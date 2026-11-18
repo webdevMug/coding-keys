@@ -1,4 +1,4 @@
-# Coding Keyboard
+# Coding Keyboard (v2)
 
 Android keyboard for coding on the go: full QWERTY page, a SYM toggle for coding symbols,
 auto-pairing brackets and quotes, arrow and undo/redo keys. Long-press the comma key to open settings.
